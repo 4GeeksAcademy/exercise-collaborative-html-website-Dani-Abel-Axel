@@ -1,0 +1,19 @@
+.portada {
+      background-image: url('https://www.papelpintado.com/media/catalog/product/cache/39df7e05fcdeb150001268a7a074dc57/n/e/new-york-manhattan-skyline-op-fotobehang_10.jpg');
+      background-size: cover;
+      background-position: center;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+
+    .portada h1,
+    .portada h2 {
+      background-color: rgba(255, 255, 255, 0.9);
+      padding: 20px;
+      margin: 10px;
+      font-weight: bold;
+    }
